@@ -1,0 +1,5 @@
+Game_name:三色绘恋 文芷篇;
+Game_key:wearelsp;
+Title_img:none;
+Title_bgm:begin.mp3;
+Loading_img:none;
